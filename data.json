@@ -1,0 +1,110 @@
+{
+ "name": "Dal Lake Dry Fruits",
+ "tagline": "Premium dry fruits with the taste of Kashmir, delivered to your door.",
+ "wa": "918899800719",
+ "upi": "",
+ "qr": "",
+ "cod": true,
+ "auth": null,
+ "products": [
+  {
+   "id": 1,
+   "name": "California Almonds",
+   "price": 260,
+   "unit": "250 g",
+   "cat": "Nuts",
+   "emoji": "🌰",
+   "desc": "Crunchy, naturally sweet almonds.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 2,
+   "name": "Whole Cashews",
+   "price": 320,
+   "unit": "250 g",
+   "cat": "Nuts",
+   "emoji": "🥜",
+   "desc": "Creamy whole cashews.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 3,
+   "name": "Walnut Kernels",
+   "price": 390,
+   "unit": "250 g",
+   "cat": "Nuts",
+   "emoji": "🌰",
+   "desc": "Light-coloured walnut halves.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 4,
+   "name": "Pistachios",
+   "price": 450,
+   "unit": "250 g",
+   "cat": "Nuts",
+   "emoji": "🥜",
+   "desc": "Roasted and lightly salted.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 5,
+   "name": "Medjool Dates",
+   "price": 300,
+   "unit": "250 g",
+   "cat": "Dried Fruits",
+   "emoji": "🌴",
+   "desc": "Soft, caramel-like dates.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 6,
+   "name": "Black Raisins",
+   "price": 140,
+   "unit": "250 g",
+   "cat": "Dried Fruits",
+   "emoji": "🍇",
+   "desc": "Sweet seedless raisins.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 7,
+   "name": "Dried Figs (Anjeer)",
+   "price": 350,
+   "unit": "250 g",
+   "cat": "Dried Fruits",
+   "emoji": "🫐",
+   "desc": "Chewy sun-dried figs.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 8,
+   "name": "Pumpkin Seeds",
+   "price": 180,
+   "unit": "250 g",
+   "cat": "Seeds",
+   "emoji": "🎃",
+   "desc": "Crisp, ready-to-eat seeds.",
+   "img": "",
+   "out": false
+  },
+  {
+   "id": 9,
+   "name": "Royal Trail Mix",
+   "price": 280,
+   "unit": "250 g",
+   "cat": "Mixes",
+   "emoji": "🥣",
+   "desc": "Nuts, seeds and dried fruit.",
+   "img": "",
+   "out": false
+  }
+ ]
+}
