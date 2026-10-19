@@ -5,7 +5,10 @@
  "upi": "",
  "qr": "",
  "cod": true,
- "auth": null,
+ "auth": {
+  "salt": "yLWxXo/kuTf3fUwAbm4mMA==",
+  "hash": "zFJir/i9HOEcwv0u7mFghad4DITcL9zeiBvR6gfa1B4="
+ },
  "products": [
   {
    "id": 1,
