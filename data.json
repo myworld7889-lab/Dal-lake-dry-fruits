@@ -108,6 +108,17 @@
    "desc": "Nuts, seeds and dried fruit.",
    "img": "",
    "out": false
+  },
+  {
+   "id": 1792432523221,
+   "emoji": "🥜",
+   "img": "images/p1792432523221-mvfk1p5u.jpg",
+   "name": "fresh kashmiri walnuts",
+   "price": 200,
+   "unit": "kg",
+   "cat": "nuts",
+   "desc": "",
+   "out": false
   }
  ]
 }
