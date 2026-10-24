@@ -23,7 +23,7 @@
   },
   {
    "id": 2,
-   "name": "Kashmir",
+   "name": "Whole Cashews",
    "price": 320,
    "unit": "250 g",
    "cat": "Nuts",
@@ -132,13 +132,13 @@
    "out": false
   },
   {
-   "id": 1792853022730,
+   "id": 1792853669794,
    "emoji": "🥜",
    "img": "",
-   "name": "Rashid bhai",
-   "price": 349,
-   "unit": "Gsg",
-   "cat": "Other",
+   "name": "plants",
+   "price": 300000,
+   "unit": "10000kg",
+   "cat": "plants",
    "desc": "",
    "out": false
   }
