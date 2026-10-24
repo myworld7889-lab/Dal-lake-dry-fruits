@@ -119,6 +119,17 @@
    "desc": "Nuts, seeds and dried fruit.",
    "img": "",
    "out": false
+  },
+  {
+   "id": 1792830470663,
+   "emoji": "🥜",
+   "img": "",
+   "name": "Apple",
+   "price": 150,
+   "unit": "1kg",
+   "cat": "fruits",
+   "desc": "",
+   "out": false
   }
  ]
 }
