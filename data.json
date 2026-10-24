@@ -130,6 +130,17 @@
    "cat": "fruits",
    "desc": "",
    "out": false
+  },
+  {
+   "id": 1792853022730,
+   "emoji": "🥜",
+   "img": "",
+   "name": "Rashid bhai",
+   "price": 349,
+   "unit": "Gsg",
+   "cat": "Other",
+   "desc": "",
+   "out": false
   }
  ]
 }
