@@ -130,6 +130,17 @@
    "cat": "fruits",
    "desc": "",
    "out": false
+  },
+  {
+   "id": 1792831008126,
+   "emoji": "🥜",
+   "img": "images/p1792831008126-mvm5b1kg.jpg",
+   "name": "Apple",
+   "price": 300,
+   "unit": "1kg",
+   "cat": "fruits",
+   "desc": "",
+   "out": false
   }
  ]
 }
